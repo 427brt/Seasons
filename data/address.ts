@@ -1,2 +1,2 @@
 export const nftCollectionAddress =
-  "0xCa44331B3577cc4A0e246B9494576864A5b26Ec4";
+  "0x9cE4Cba798C9d1c5125a3aD1799B621cB3919531";
